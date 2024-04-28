@@ -1,2 +1,4 @@
 # ERCToken
-Sample01
+## Sample Codes
+
+### This is just a trial run of Codes.
